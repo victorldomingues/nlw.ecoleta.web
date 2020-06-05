@@ -1,3 +1,13 @@
+# NEXT LEVEL WEEK #1 Rocketseat (API) - Node.js > TypeScript
+
+API feita na primeira edição da NEXT LEVEL WEEK promovida pela Rocketseat
+
+> React
+
+> TypeScript
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

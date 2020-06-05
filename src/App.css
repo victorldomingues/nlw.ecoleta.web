@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+body {
+  background: #f0f0f5;
+}
+
+body,
+input,
+button {
+  font-family: "Roboto", sans-serif;
+}
+h1 {
+  font-family: "Ubuntu", sans-serif;
+}
